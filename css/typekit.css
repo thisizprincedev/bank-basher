@@ -1,0 +1,52 @@
+/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * brandon-grotesque:
+ *   - http://typekit.com/eulas/0000000000000000000132e3
+ * proxima-nova:
+ *   - http://typekit.com/eulas/00000000000000007735e603
+ *   - http://typekit.com/eulas/00000000000000007735e60d
+ *   - http://typekit.com/eulas/00000000000000007735e609
+ *   - http://typekit.com/eulas/00000000000000007735e616
+ *
+ * © 2009-2025 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2021-12-12 23:37:47 UTC"}*/
+
+@import url("./p.css");
+
+@font-face {
+font-family:"proxima-nova";
+src:url("../fonts/proxima_n7.woff2") format("woff2"),url("../fonts/proxima_n7.woff") format("woff"),url("../fonts/proxima_n7.otf") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+font-family:"proxima-nova";
+src:url("../fonts/proxima_n6.woff2") format("woff2"),url("../fonts/proxima_n6.woff") format("woff"),url("../fonts/proxima_n6.otf") format("opentype");
+font-display:auto;font-style:normal;font-weight:600;font-stretch:normal;
+}
+
+@font-face {
+font-family:"proxima-nova";
+src:url("../fonts/proxima_n4.woff2") format("woff2"),url("../fonts/proxima_n4.woff") format("woff"),url("../fonts/proxima_n4.otf") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"proxima-nova";
+src:url("../fonts/proxima_i4.woff2") format("woff2"),url("../fonts/proxima_i4.woff") format("woff"),url("../fonts/proxima_i4.otf") format("opentype");
+font-display:auto;font-style:italic;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"brandon-grotesque";
+src:url("../fonts/brandon-grotesque_n7.woff2") format("woff2"),url("../fonts/brandon-grotesque_n7.woff") format("woff"),url("../fonts/brandon-grotesque_n7.otf") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;font-stretch:normal;
+}
+
+.tk-proxima-nova { font-family: "proxima-nova",sans-serif; }
+.tk-brandon-grotesque { font-family: "brandon-grotesque",sans-serif; }

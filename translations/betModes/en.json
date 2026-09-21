@@ -1,0 +1,98 @@
+{
+	"BASE": {
+		"mode": "BASE",
+		"costMultiplier": 1,
+		"type": "default",
+		"parent": "",
+		"children": "",
+		"assets": {
+			"icon": "",
+			"dialogImage": "",
+			"dialogVolatility": "",
+			"volatility": "",
+			"button": ""
+		},
+		"text": {
+			"title": "",
+			"dialog": "",
+			"button": "",
+			"betAmountLabel": "",
+			"tickerIdle": "",
+			"tickerSpin": "",
+			"bannerText": ""
+		},
+		"maxWin": 10000
+	},
+	"SUPER-ANTE": {
+		"mode": "SUPER-ANTE",
+		"costMultiplier": 5,
+		"type": "activate",
+		"parent": "",
+		"children": "",
+		"assets": {
+			"icon": "",
+			"dialogImage": "./assets/localisation/betModes/images/super_ante_image.webp",
+			"dialogVolatility": "./assets/localisation/betModes/volatility/volatility_white_04.webp",
+			"volatility": "",
+			"button": ""
+		},
+		"text": {
+			"title": "SUPER ENHANCED",
+			"dialog": "More prizes granting 10x chance to trigger the Hold and Re-Spin Feature.",
+			"button": "ACTIVATE",
+			"betAmountLabel": "SUPER ENHANCED",
+			"tickerIdle": "",
+			"tickerSpin": "",
+			"bannerText": ""
+		},
+		"maxWin": 10000
+	},
+	"ANTE": {
+		"mode": "ANTE",
+		"costMultiplier": 20,
+		"type": "activate",
+		"parent": "",
+		"children": "",
+		"assets": {
+			"icon": "",
+			"dialogImage": "./assets/localisation/betModes/images/ante_image.webp",
+			"dialogVolatility": "./assets/localisation/betModes/volatility/volatility_white_05.webp",
+			"volatility": "",
+			"button": ""
+		},
+		"text": {
+			"title": "BOXER ON ALL SPINS ",
+			"dialog": "Guarantees the boxer lands on every single spin.",
+			"button": "ACTIVATE",
+			"betAmountLabel": "BOXER ON ALL SPINS ",
+			"tickerIdle": "",
+			"tickerSpin": "",
+			"bannerText": ""
+		},
+		"maxWin": 10000
+	},
+	"BONUS": {
+		"mode": "BONUS",
+		"costMultiplier": 200,
+		"type": "buy",
+		"parent": "",
+		"children": "",
+		"assets": {
+			"icon": "",
+			"dialogImage": "./assets/localisation/betModes/images/bonus_image.webp",
+			"dialogVolatility": "./assets/localisation/betModes/volatility/volatility_white_04.webp",
+			"volatility": "",
+			"button": ""
+		},
+		"text": {
+			"title": "HOLD AND RE-SPIN",
+			"dialog": "Instantly triggers the Hold and Re-spin Feature! Guarantees at least 6 prizes.",
+			"button": "BUY",
+			"betAmountLabel": "HOLD AND RE-SPIN",
+			"tickerIdle": "",
+			"tickerSpin": "",
+			"bannerText": ""
+		},
+		"maxWin": 10000
+	}
+}

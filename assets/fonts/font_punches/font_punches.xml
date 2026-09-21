@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<font>
+  <info face="font_punches" size="88" bold="0" italic="0" charset="" unicode="" stretchH="88" smooth="1" aa="1" padding="0,0,0,0" spacing="1,0" outline="0"/>
+  <common lineHeight="88" base="88" scaleW="701" scaleH="94" pages="1" packed="0"/>
+  <pages>
+    <page id="0" file="font_punches.webp"/>
+  </pages>
+  <chars>
+    <char id="32" x="0" y="0" width="45" height="1" xoffset="0" yoffset="0" xadvance="45" yadvance="1"/>
+    <char id="43" x="653" y="3" width="45" height="88" xoffset="0" yoffset="0" xadvance="45" yadvance="1"/>
+    <char id="48" x="3" y="3" width="61" height="88" xoffset="0" yoffset="0" xadvance="61" yadvance="1"/>
+    <char id="49" x="68" y="3" width="61" height="88" xoffset="0" yoffset="0" xadvance="61" yadvance="1"/>
+    <char id="50" x="133" y="3" width="61" height="88" xoffset="0" yoffset="0" xadvance="61" yadvance="1"/>
+    <char id="51" x="198" y="3" width="61" height="88" xoffset="0" yoffset="0" xadvance="61" yadvance="1"/>
+    <char id="52" x="263" y="3" width="61" height="88" xoffset="0" yoffset="0" xadvance="61" yadvance="1"/>
+    <char id="53" x="328" y="3" width="61" height="88" xoffset="0" yoffset="0" xadvance="61" yadvance="1"/>
+    <char id="54" x="393" y="3" width="61" height="88" xoffset="0" yoffset="0" xadvance="61" yadvance="1"/>
+    <char id="55" x="458" y="3" width="61" height="88" xoffset="0" yoffset="0" xadvance="61" yadvance="1"/>
+    <char id="56" x="523" y="3" width="61" height="88" xoffset="0" yoffset="0" xadvance="61" yadvance="1"/>
+    <char id="57" x="588" y="3" width="61" height="88" xoffset="0" yoffset="0" xadvance="61" yadvance="1"/>
+  </chars>
+</font>

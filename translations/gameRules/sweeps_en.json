@@ -1,0 +1,349 @@
+{
+  "payTable": [
+    {
+      "containers": [
+        {
+          "title": "",
+          "text": "Eddie Glassjaw, a fallen heavyweight legend, has finally snapped and charges into the bank like a human wrecking ball. In the chaos, he cracks open vaults and scoops up coin prizes with zero regard for consequences; pure mania, pure mayhem. Step into his wild run and chase the loot.",
+          "textImages": null,
+          "image": "",
+          "imagePosition": "",
+          "row": 0,
+          "column": 0
+        }
+      ],
+      "rows": 4,
+      "columns": 1,
+      "title": "ABOUT THE GAME"
+    },
+    {
+      "containers": [
+        {
+          "title": "Eddie Glassjaw Feature",
+          "text": "<boxer> randomly accumulates a number of punches and/or adds a multiplier each time he punches <h1_static>, <h2_static>, <h3_static>, or <h4_static>. Coin prizes are won each time <boxer> punches a <safe>. If <boxer> still has remaining punches, the reels tumble to place a new symbol in front of him. The feature ends when there are no punches left.",
+          "textImages": {
+            "boxer": "./assets/localisation/gameRules/textImages/boxer.png",
+            "safe": "./assets/localisation/gameRules/textImages/p0.png",
+            "h1_static": "./assets/localisation/gameRules/textImages/h1.png",
+            "h2_static": "./assets/localisation/gameRules/textImages/h2.png",
+            "h3_static": "./assets/localisation/gameRules/textImages/h3.png",
+            "h4_static": "./assets/localisation/gameRules/textImages/h4.png"
+          },
+          "image": "",
+          "imagePosition": "",
+          "row": 0,
+          "column": 0
+        },
+        {
+          "title": "",
+          "text": "",
+          "textImages": null,
+          "image": "./assets/localisation/gameRules/paytable/1_31_glassjawfeature.webp",
+          "imagePosition": "top",
+          "row": 1,
+          "column": 0
+        },
+        {
+          "title": "Hold-and-Respin Feature",
+          "text": "Landing 6 scatter <safe> symbols awards 3 initial free hold-and-respins.\n\nDuring the Hold-and-Respin feature, <safe> that trigger the spin become sticky for the remainder of the respins.\n\nOnly <blank> <boxer> and/or <safe> symbols can land during Hold-and-Respin. \n\nThe respin counter resets to 3 each time a <boxer> or <safe> lands. All new <safe> become sticky for the remainder of the free respins. \n\nA <boxer> landing next to a <safe> collects its value and may add a multiplier for future <safe> landing in the same spot.\n\nIf a <safe> tumbles out of a position with a multiplier, that multiplier is no longer applied.\n\nEach punch also award an additional punch as the reels tumble to place a new <safe> in front of <boxer>.\n\nThe Hold-and-Respin feature ends when no free respins remain. The Hold and Re-Spin feature cannot be triggered during the Eddie Glassjaw feature.",
+          "textImages": {
+            "boxer": "./assets/localisation/gameRules/textImages/boxer.png",
+            "safe": "./assets/localisation/gameRules/textImages/p0.png",
+            "blank": "./assets/localisation/gameRules/textImages/null.png"
+          },
+          "image": "",
+          "imagePosition": "",
+          "row": 2,
+          "column": 0
+        },
+        {
+          "title": "",
+          "text": "",
+          "textImages": null,
+          "image": "./assets/localisation/gameRules/paytable/1_31_hnsfeature.webp",
+          "imagePosition": "top",
+          "row": 3,
+          "column": 0
+        }
+      ],
+      "rows": 4,
+      "columns": 1,
+      "title": "FEATURES"
+    },
+    {
+      "containers": [
+        {
+          "title": "",
+          "text": "",
+          "textImages": null,
+          "image": "./assets/localisation/gameRules/symbols/boxer.png",
+          "imagePosition": "top",
+          "row": 0,
+          "column": 0
+        },
+        {
+          "title": "",
+          "text": "Collects prizes\nResets the Hold-and-Respin counter\nAdds a multiplier during the Hold-and-Respin feature",
+          "textImages": null,
+          "image": "",
+          "imagePosition": "",
+          "row": 1,
+          "column": 0
+        },
+        {
+          "title": "",
+          "text": "",
+          "textImages": null,
+          "image": "./assets/localisation/gameRules/symbols/symbolPayouts_hps.webp",
+          "imagePosition": "top",
+          "row": 2,
+          "column": 0
+        },
+        {
+          "title": "",
+          "text": "",
+          "textImages": null,
+          "image": "./assets/localisation/gameRules/symbols/symbolPayouts_lps.webp",
+          "imagePosition": "top",
+          "row": 3,
+          "column": 0
+        }
+      ],
+      "rows": 4,
+      "columns": 1,
+      "title": "SYMBOL VALUES"
+    },
+    {
+      "containers": [
+        {
+          "title": "",
+          "text": "During the base game, all symbols award from left to right, starting from the leftmost reel. Wins are awarded for matching symbols along the 24 designated win lines. This rule does not apply to <safe> and <boxer> symbols. Only the highest win on each line is won.",
+          "textImages": {
+            "boxer": "./assets/localisation/gameRules/textImages/boxer.png",
+            "safe": "./assets/localisation/gameRules/textImages/p0.png",
+            "blank": "./assets/localisation/gameRules/textImages/null.png"
+          },
+          "image": "",
+          "imagePosition": "",
+          "row": 0,
+          "column": 0
+        },
+        {
+          "title": "",
+          "text": "",
+          "textImages": null,
+          "image": "./assets/localisation/gameRules/lines/1_31_lines.webp",
+          "imagePosition": "top",
+          "row": 1,
+          "column": 0
+        }
+      ],
+      "rows": 2,
+      "columns": 1,
+      "title": "WAYS TO WIN"
+    },
+    {
+      "containers": [
+        {
+          "title": "",
+          "text": "This game allows players to select the Play Bonus features directly from the main game by pressing the PLAY BONUS button.",
+          "textImages": null,
+          "image": "",
+          "imagePosition": "",
+          "row": 0,
+          "column": 0
+        }
+      ],
+      "rows": 1,
+      "columns": 1,
+      "title": "BONUS PLAY"
+    }
+  ],
+  "gameRules": [
+    {
+      "containers": [
+        {
+          "title": "",
+          "text": "The base mode of this game has a theoretical expected return of 96.7%.\n\nThe player has the option to play <boxer> ON ALL SPINS mode which costs 20x the underlying spin. \n\nIt has expected return of 96.7%. The player has the option to play HOLD AND RE-SPIN feature which costs 200x the underlying spin amount, and guarantees at least 6 Prizes.\n\nIt has an expected return of 96.7%.The maximum win in each Spin Mode is 10,000x the underlying spin.\n\nMalfunction voids all spins and plays. A consistent internet connection is required. In the event of a disconnection, reload the game to finish any uncompleted spins.\n\nThe expected return is calculated over many spins. Movement of reels are not representative of any physical device, and is for illustrative purposes only. TM and © 2025 Twist Gaming.",
+          "textImages": {
+            "boxer": "./assets/localisation/gameRules/textImages/boxer.png",
+            "safe": "./assets/localisation/gameRules/textImages/p0.png",
+            "blank": "./assets/localisation/gameRules/textImages/null.png"
+          },
+          "image": "",
+          "imagePosition": "top",
+          "row": 0,
+          "column": 0
+        }
+      ],
+      "rows": 2,
+      "columns": 1,
+      "title": "LEGAL NOTICE"
+    },
+    {
+      "containers": [
+        {
+          "title": "",
+          "text": "SPIN BUTTON | Initiates the spinning round.",
+          "textImages": null,
+          "image": "./assets/user-interface/button_spin.webp",
+          "imagePosition": "left",
+          "row": 0,
+          "column": 0
+        },
+        {
+          "title": "",
+          "text": "STOP BUTTON | Stops the current spin.",
+          "textImages": null,
+          "image": "./assets/user-interface/button_stop.webp",
+          "imagePosition": "left",
+          "row": 1,
+          "column": 0
+        },
+        {
+          "title": "",
+          "text": "PLAY BUTTON | Open the Play Feature menu.",
+          "textImages": null,
+          "image": "./assets/user-interface/button_play.webp",
+          "imagePosition": "left",
+          "row": 2,
+          "column": 0
+        },
+        {
+          "title": "",
+          "text": "INFORMATION | Provides game information.",
+          "textImages": null,
+          "image": "./assets/user-interface/button_info.webp",
+          "imagePosition": "left",
+          "row": 4,
+          "column": 0
+        },
+        {
+          "title": "",
+          "text": "SETTINGS | Adjust game settings.",
+          "textImages": null,
+          "image": "./assets/user-interface/button_settings.webp",
+          "imagePosition": "left",
+          "row": 5,
+          "column": 0
+        },
+        {
+          "title": "",
+          "text": "AUTO SPIN | Open the Auto Spin pop-up menu.",
+          "textImages": null,
+          "image": "./assets/user-interface/button_auto.webp",
+          "imagePosition": "left",
+          "row": 7,
+          "column": 0
+        },
+        {
+          "title": "",
+          "text": "TURBO | Activate Turbo Mode.",
+          "textImages": null,
+          "image": "./assets/user-interface/button_turbo.webp",
+          "imagePosition": "left",
+          "row": 8,
+          "column": 0
+        },
+        {
+          "title": "",
+          "text": "MENU | Expands the sidebar menu for more options.",
+          "textImages": null,
+          "image": "./assets/user-interface/button_menu.webp",
+          "imagePosition": "left",
+          "row": 9,
+          "column": 0
+        },
+        {
+          "title": "",
+          "text": "CLOSE | Exit the sidebar menu.",
+          "textImages": null,
+          "image": "./assets/user-interface/button_menuclose.webp",
+          "imagePosition": "left",
+          "row": 10,
+          "column": 0
+        },
+        {
+          "title": "",
+          "text": "SOUND | Mute or unmute game audio.",
+          "textImages": null,
+          "image": "./assets/user-interface/button_soundon.webp",
+          "imagePosition": "left",
+          "row": 11,
+          "column": 0
+        },
+        {
+          "title": "",
+          "text": "INCREASE | Increase your spin amount.",
+          "textImages": null,
+          "image": "./assets/user-interface/button_increase.webp",
+          "imagePosition": "left",
+          "row": 12,
+          "column": 0
+        },
+        {
+          "title": "",
+          "text": "DECREASE | Decrease your spin amount.",
+          "textImages": null,
+          "image": "./assets/user-interface/button_decrease.webp",
+          "imagePosition": "left",
+          "row": 13,
+          "column": 0
+        }
+      ],
+      "rows": 14,
+      "columns": 1,
+      "title": "USER INTERFACE GUIDE"
+    }
+  ],
+  "splashScreen": [
+    {
+      "containers": [
+        {
+          "title": "",
+          "text": "Win up to 10,000 times your spin!",
+          "textImages": null,
+          "image": "",
+          "imagePosition": "default",
+          "row": -1,
+          "column": -1
+        }
+      ],
+      "rows": -1,
+      "columns": -1,
+      "title": ""
+    },
+    {
+      "containers": [
+        {
+          "title": "",
+          "text": "Punch your way to multipliers up to 100x",
+          "textImages": null,
+          "image": "",
+          "imagePosition": "",
+          "row": "",
+          "column": ""
+        }
+      ],
+      "rows": -1,
+      "columns": -1,
+      "title": ""
+    },
+    {
+      "containers": [
+        {
+          "title": "",
+          "text": "Land 6 prizes to start the Hold-and-Respin feature to secure massive wins",
+          "textImages": null,
+          "image": "",
+          "imagePosition": "",
+          "row": "",
+          "column": ""
+        }
+      ],
+      "rows": -1,
+      "columns": -1,
+      "title": ""
+    }
+  ]
+}

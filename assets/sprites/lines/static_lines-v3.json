@@ -1,0 +1,84 @@
+{"frames": {
+
+"line_A.png":
+{
+	"frame": {"x":1,"y":1,"w":704,"h":596},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":704,"h":596},
+	"sourceSize": {"w":704,"h":596}
+},
+"line_B.png":
+{
+	"frame": {"x":707,"y":1,"w":704,"h":596},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":704,"h":596},
+	"sourceSize": {"w":704,"h":596}
+},
+"line_C.png":
+{
+	"frame": {"x":1413,"y":1,"w":704,"h":596},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":704,"h":596},
+	"sourceSize": {"w":704,"h":596}
+},
+"line_D.png":
+{
+	"frame": {"x":1,"y":599,"w":704,"h":596},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":704,"h":596},
+	"sourceSize": {"w":704,"h":596}
+},
+"line_E.png":
+{
+	"frame": {"x":707,"y":599,"w":704,"h":596},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":704,"h":596},
+	"sourceSize": {"w":704,"h":596}
+},
+"line_F.png":
+{
+	"frame": {"x":1413,"y":707,"w":704,"h":596},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":704,"h":596},
+	"sourceSize": {"w":704,"h":596}
+},
+"line_G.png":
+{
+	"frame": {"x":1,"y":1197,"w":704,"h":596},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":704,"h":596},
+	"sourceSize": {"w":704,"h":596}
+},
+"line_H.png":
+{
+	"frame": {"x":599,"y":1197,"w":704,"h":596},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":704,"h":596},
+	"sourceSize": {"w":704,"h":596}
+},
+"line_I.png":
+{
+	"frame": {"x":1305,"y":1413,"w":704,"h":596},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":704,"h":596},
+	"sourceSize": {"w":704,"h":596}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "static_lines-v3.webp",
+	"format": "RGBA8888",
+	"size": {"w":2010,"h":2010},
+	"scale": "0.4",
+	"smartupdate": "$TexturePacker:SmartUpdate:ffee990efaf95186e6ec7e36e6fd4e09:a1e6398629c874f28cd86a0fdd2238de:119118fd6d3151b1539515c374d2eedd$"
+}
+}

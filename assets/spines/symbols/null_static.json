@@ -1,0 +1,70 @@
+{
+  "skeleton": {
+    "hash": "yqG9LlpG/Nk",
+    "spine": "4.2.43",
+    "x": -322.68,
+    "y": -362.52,
+    "width": 1000,
+    "height": 1000
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "symbols_master",
+      "parent": "root"
+    },
+    {
+      "name": "specials",
+      "parent": "symbols_master"
+    },
+    {
+      "name": "null",
+      "parent": "specials",
+      "y": -3.33
+    }
+  ],
+  "slots": [
+    {
+      "name": "null_SHD",
+      "bone": "null",
+      "color": "4e461eff",
+      "dark": "4e461e",
+      "attachment": "null"
+    },
+    {
+      "name": "null",
+      "bone": "null",
+      "color": "a7af9cff",
+      "attachment": "null"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "null": {
+          "null": {
+            "x": -0.68,
+            "y": 2.65,
+            "width": 644,
+            "height": 670
+          }
+        },
+        "null_SHD": {
+          "null": {
+            "x": 4.77,
+            "y": -24.19,
+            "width": 644,
+            "height": 670
+          }
+        }
+      }
+    }
+  ],
+  "events": {
+    "prize_collect": {},
+    "punch_on": {}
+  }
+}
